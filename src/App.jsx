@@ -172,7 +172,7 @@ function App() {
             setDifficulty("Easy");
           }}
         >
-          EASY <span className="emoji">😌</span>
+          EASY
         </button>
         <button
           className={difficulty === "Hard" ? "active" : ""}
@@ -181,7 +181,7 @@ function App() {
             setDifficulty("Hard");
           }}
         >
-          HARD <span className="emoji">🥵</span>
+          HARD
         </button>
       </div>
 
