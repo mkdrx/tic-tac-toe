@@ -1,6 +1,6 @@
 # Tic Tac Toe Game using React
-![tictactoepic](https://github.com/mkdrx/tic-tac-toe/assets/99738621/f4b64d2c-26c3-423c-b61c-26e10112d74a)
-![tictactoepic2](https://github.com/mkdrx/tic-tac-toe/assets/99738621/5347f7b7-54d2-47f8-8be3-78a3fee03986)
+![t1](https://github.com/mkdrx/tic-tac-toe/assets/99738621/d596c75e-cd4d-4aae-9f6f-de07b0728bc4)
+![t2](https://github.com/mkdrx/tic-tac-toe/assets/99738621/67a57da4-39e9-4914-a5a3-faab85df5744)
 
 
 - Clone the project
